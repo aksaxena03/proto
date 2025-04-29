@@ -7,6 +7,7 @@ const nextConfig = {
   env: {
     OPENAI_API_KEY: process.env.OPENAI_API_KEY,
   },
+  output: 'standalone'
 }
 
 module.exports = nextConfig

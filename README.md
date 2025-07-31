@@ -1,6 +1,6 @@
 # AI Interview Assistant
 
-A real-time AI assistant that helps with interview preparation by answering interview questions based on your resume.
+A real-time AI assistant that helps for interview preparation by asking interview questions based on your resume.
 
 ## Features
 
@@ -16,14 +16,10 @@ A real-time AI assistant that helps with interview preparation by answering inte
 - TailwindCSS
 - OpenAI API
 - Web Speech API
-
+  
 ## Setup
 
 1. Clone this repository
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Deployment
-
-This app is ready to be deployed to Vercel. 

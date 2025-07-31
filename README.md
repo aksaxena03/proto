@@ -1,4 +1,4 @@
-# AI Interview Assistant
+# AI Interview preparation Assistant
 
 A real-time AI assistant that helps for interview preparation by asking interview questions based on your resume.
 
